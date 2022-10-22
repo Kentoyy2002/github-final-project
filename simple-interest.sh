@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # kentbrian.villacorta@g.msuiit.edu.ph
 
    # Input:
    # p, principal amount
